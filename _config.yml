@@ -1,15 +1,15 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Cats, Bats and other assorted nouns
+author: Cory Wyman
+email: cwyman1@asu.edu
 description: > # this means to ignore newlines until "baseurl:"
-  This is my new site.  I am having fun learning about GitHub.
-  It is interesting that this appears in my document head meta (for
-  Google search results) and in my feed.xml site description.
+  This is your one stop site for looking at nouns that I list. It could be a rabbit,
+  a souffle, aluminum. You name it. Or rather I do!
 
 # social links
 twitter_username: your-twitter-handle
-github_username:  your-github-handle
+github_username:  CoryStory
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
+
