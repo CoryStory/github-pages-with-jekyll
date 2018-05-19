@@ -3,3 +3,6 @@
 I'm glad you are here. I plan to talk about Dungeons and Dragons endlessly and constantly until you are bored out of your mind.
 
 @auntfun Hey come check this out
+
+Nice Hotel California reference.
+:octocat:
